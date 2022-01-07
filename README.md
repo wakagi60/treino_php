@@ -10,7 +10,7 @@
 
 - No seu navegador deve aparecer, como na figura abaixo:
 
-  ![image-20220107141643234](C:\Users\wakagi\AppData\Roaming\Typora\typora-user-images\image-20220107141643234.png)
+  ![image-20220107141643234](C:\workspace\treino_php\image-20220107141643234.png)
 
   
 
